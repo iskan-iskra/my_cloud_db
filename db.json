@@ -2,24 +2,45 @@
   "brokers": [
     {
       "id": 1,
-      "name": "test",
-      "country": "test2",
-      "contact": "test3",
+      "name": "Jhon Week",
+      "country": "USA",
+      "contact": "some contact",
       "logo": "https://media.istockphoto.com/id/1361394182/photo/funny-british-shorthair-cat-portrait-looking-shocked-or-surprised.jpg?s=1024x1024&w=is&k=20&c=-keJ_V9tZtTsxwcuJqrS9Zx0EJNglQU1ezZrYYIBYrQ="
     },
     {
       "id": 2,
-      "name": "test2",
-      "country": "teadsdasdst2",
-      "contact": "teasdasdst3",
-      "logo": "https://media.istockphoto.com/id/1361394182/photo/funny-british-shorthair-cat-portrait-looking-shocked-or-surprised.jpg?s=1024x1024&w=is&k=20&c=-keJ_V9tZtTsxwcuJqrS9Zx0EJNglQU1ezZrYYIBYrQ="
+      "name": "Aydar",
+      "country": "Kazakhstan",
+      "contact": "some other contact",
+      "logo": "https://cdnn21.img.ria.ru/images/148839/96/1488399659_0:0:960:960_600x0_80_0_1_e38b72053fffa5d3d7e82d2fe116f0b3.jpg"
     },
     {
       "id": 3,
-      "name": "test3",
-      "country": "asdasd",
-      "contact": "asdasdasd",
-      "logo": "https://media.istockphoto.com/id/1361394182/photo/funny-british-shorthair-cat-portrait-looking-shocked-or-surprised.jpg?s=1024x1024&w=is&k=20&c=-keJ_V9tZtTsxwcuJqrS9Zx0EJNglQU1ezZrYYIBYrQ="
+      "name": "Robert",
+      "country": "USA",
+      "contact": "some contact 2",
+      "logo": "https://kaifolog.ru/uploads/posts/2020-06/1592383368_002.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ivan",
+      "country": "Russia",
+      "contact": "some contact 3",
+      "logo": "https://s1.bloknot-novorossiysk.ru/thumb/850x0xcut/upload/iblock/e84/omyb57mq3bau1kef8z8r9cjxv89x032m/WhatsApp-Image-2023_08_08-at-12.39.20.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Aybek",
+      "country": "Kazakhstan",
+      "contact": "some contact 4",
+      "logo": "https://wl-adme.cf.tsp.li/resize/728x/jpg/439/eb8/de445355578c3bb458152d1740.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Aybar",
+      "country": "Kazakhstan",
+      "contact": "some contact 5",
+      "logo": "https://mixnews.lv/wp-content/uploads/2023/06/25/2023-06-25-mixnews-mycollages-30.jpg"
     }
   ]
 }
