@@ -111,5 +111,152 @@
         }
       ]
     }
+  ],
+
+  "test-sale-deal-statistics": [
+    {
+      "sign_date": "2023-01-02",
+      "sign_week": 1,
+      "sign_month": 1,
+      "sign_year": 2023,
+      "qty_online": 8,
+      "qty_offline": 5
+    },
+    {
+      "sign_date": "2023-01-15",
+      "sign_week": 3,
+      "sign_month": 1,
+      "sign_year": 2023,
+      "qty_online": 12,
+      "qty_offline": 7
+    },
+    {
+      "sign_date": "2023-02-05",
+      "sign_week": 5,
+      "sign_month": 2,
+      "sign_year": 2023,
+      "qty_online": 3,
+      "qty_offline": 9
+    },
+    {
+      "sign_date": "2023-03-12",
+      "sign_week": 11,
+      "sign_month": 3,
+      "sign_year": 2023,
+      "qty_online": 5,
+      "qty_offline": 14
+    },
+    {
+      "sign_date": "2023-04-09",
+      "sign_week": 15,
+      "sign_month": 4,
+      "sign_year": 2023,
+      "qty_online": 11,
+      "qty_offline": 2
+    },
+    {
+      "sign_date": "2023-05-21",
+      "sign_week": 21,
+      "sign_month": 5,
+      "sign_year": 2023,
+      "qty_online": 6,
+      "qty_offline": 10
+    },
+    {
+      "sign_date": "2023-05-28",
+      "sign_week": 22,
+      "sign_month": 5,
+      "sign_year": 2023,
+      "qty_online": 9,
+      "qty_offline": 8
+    },
+    {
+      "sign_date": "2023-06-11",
+      "sign_week": 24,
+      "sign_month": 6,
+      "sign_year": 2023,
+      "qty_online": 14,
+      "qty_offline": 4
+    },
+    {
+      "sign_date": "2023-06-25",
+      "sign_week": 26,
+      "sign_month": 6,
+      "sign_year": 2023,
+      "qty_online": 2,
+      "qty_offline": 11
+    },
+    {
+      "sign_date": "2023-07-30",
+      "sign_week": 30,
+      "sign_month": 7,
+      "sign_year": 2023,
+      "qty_online": 8,
+      "qty_offline": 13
+    },
+    {
+      "sign_date": "2023-08-06",
+      "sign_week": 31,
+      "sign_month": 8,
+      "sign_year": 2023,
+      "qty_online": 13,
+      "qty_offline": 3
+    },
+    {
+      "sign_date": "2023-08-20",
+      "sign_week": 33,
+      "sign_month": 8,
+      "sign_year": 2023,
+      "qty_online": 7,
+      "qty_offline": 8
+    },
+    {
+      "sign_date": "2023-09-03",
+      "sign_week": 35,
+      "sign_month": 9,
+      "sign_year": 2023,
+      "qty_online": 10,
+      "qty_offline": 6
+    },
+    {
+      "sign_date": "2023-09-24",
+      "sign_week": 38,
+      "sign_month": 9,
+      "sign_year": 2023,
+      "qty_online": 4,
+      "qty_offline": 12
+    },
+    {
+      "sign_date": "2023-10-01",
+      "sign_week": 39,
+      "sign_month": 10,
+      "sign_year": 2023,
+      "qty_online": 15,
+      "qty_offline": 1
+    },
+    {
+      "sign_date": "2023-11-05",
+      "sign_week": 44,
+      "sign_month": 11,
+      "sign_year": 2023,
+      "qty_online": 1,
+      "qty_offline": 5
+    },
+    {
+      "sign_date": "2023-11-26",
+      "sign_week": 47,
+      "sign_month": 11,
+      "sign_year": 2023,
+      "qty_online": 12,
+      "qty_offline": 9
+    },
+    {
+      "sign_date": "2023-12-03",
+      "sign_week": 48,
+      "sign_month": 12,
+      "sign_year": 2023,
+      "qty_online": 6,
+      "qty_offline": 14
+    }
   ]
 }
